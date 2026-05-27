@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/Pagina-Daliatech/', // <-- AGREGA ESTA LÍNEA (con las barras incluidas)
 })
