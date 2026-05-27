@@ -4,7 +4,7 @@ import { useState } from "react";
 import Navbar from "./components/Navbar";
 
 import Home from "./pages/Home";
-import Services from "./pages/Services";
+import Services from "./pages/services";
 import Templates from "./pages/Templates";
 import Cart from "./pages/Cart";
 import Login from "./pages/Login";
